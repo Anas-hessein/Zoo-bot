@@ -10,7 +10,7 @@ const app = new App({
   socketMode: true
 });
 
-app.command("/my-nice-bot-ping", async ({ command, ack, respond }) => {
+app.command("/zoo-ping", async ({ command, ack, respond }) => {
   const start = Date.now();
   await ack();
   const latency = Date.now() - start;
@@ -22,7 +22,7 @@ app.command("/my-nice-bot-ping", async ({ command, ack, respond }) => {
   console.log("bot is running!");
 })();
 
-app.command("/my-nice-bot-catfact", async ({ ack, respond }) => {
+app.command("/zoo-catfact", async ({ ack, respond }) => {
   await ack();
 
   try {
@@ -33,7 +33,7 @@ app.command("/my-nice-bot-catfact", async ({ ack, respond }) => {
   }
 });
 
-app.command("/my-nice-bot-dogfact", async ({ ack, respond }) => {
+app.command("/zoo-dogfact", async ({ ack, respond }) => {
   await ack();
 
   try {
@@ -45,7 +45,7 @@ app.command("/my-nice-bot-dogfact", async ({ ack, respond }) => {
   }
 });
 
-app.command("/my-nice-bot-joke", async ({ ack, respond }) => {
+app.command("/zoo-joke", async ({ ack, respond }) => {
   await ack();
 
   try {
@@ -61,7 +61,8 @@ ${response.data.punchline}`
   }
 });
 
-app.command("/my-nice-bot-dogpic", async ({ ack, respond }) => {
+
+app.command("/zoo-dogpic", async ({ ack, respond }) => {
     await ack();
 
     try {
@@ -81,7 +82,7 @@ app.command("/my-nice-bot-dogpic", async ({ ack, respond }) => {
     
 })
 
-app.command("/my-nice-bot-catpic", async ({ ack, respond }) => {
+app.command("/zoo-catpic", async ({ ack, respond }) => {
     await ack();
 
     try {
@@ -101,7 +102,7 @@ app.command("/my-nice-bot-catpic", async ({ ack, respond }) => {
     
 })
 
-app.command("/my-nice-bot-duckpic", async ({ ack, respond }) => {
+app.command("/zoo-duckpic", async ({ ack, respond }) => {
     await ack();
 
     try {
@@ -121,7 +122,7 @@ app.command("/my-nice-bot-duckpic", async ({ ack, respond }) => {
     
 })
 
-app.command("/my-nice-bot-foxpic", async ({ ack, respond }) => {
+app.command("/zoo-foxpic", async ({ ack, respond }) => {
     await ack();
 
     try {
