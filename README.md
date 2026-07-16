@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Hackatime](https://img.shields.io/badge/build-1h%2014m%2048s-brightgreen?style=plastic&logo=WakaTime&logoColor=white&label=Hackatime&labelColor=gray&color=blue&link=https%3A%2F%2Fhackatime.hackclub.com%2Fmy%2Fprojects%2Fplato)](https://hackatime.hackclub.com/my/projects/my-nice-slack-bot) [![JavaScript](https://img.shields.io/badge/language-JavaScript-blue?style=plastic&logo=javascript&logoColor=white&label=Language&labelColor=gray&color=yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <img src="https://img.shields.io/badge/License-MIT-green?style=flat" alt="MIT License"/>
+[![Hackatime](https://img.shields.io/badge/build-1h%2042m%2050s-brightgreen?style=plastic&logo=WakaTime&logoColor=white&label=Hackatime&labelColor=gray&color=blue&link=https%3A%2F%2Fhackatime.hackclub.com%2Fmy%2Fprojects%2Fplato)](https://hackatime.hackclub.com/my/projects/my-nice-slack-bot) [![JavaScript](https://img.shields.io/badge/language-JavaScript-blue?style=plastic&logo=javascript&logoColor=white&label=Language&labelColor=gray&color=yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <img src="https://img.shields.io/badge/License-MIT-green?style=flat" alt="MIT License"/>
 </div>
 
 <p align="center"> A bot with some different animals pictures and facts. </p>
