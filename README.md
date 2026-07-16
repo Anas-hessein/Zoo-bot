@@ -15,6 +15,10 @@ Zoo-bot is a slack bot. It has a 8 different slash commands about animls. Built 
 dogs, cats, ducks, and foxs.
 
 ## Screenshots
+<img width="150"  alt="Screenshot 2026-07-16 043056" src="https://github.com/user-attachments/assets/a53b5476-561d-450d-91a5-019901814ba0" />
+<img width="150"  alt="Screenshot 2026-07-16 043124" src="https://github.com/user-attachments/assets/f927f0ee-08dd-4494-85a4-bb48c8f05304" />
+<img width="150"  alt="Screenshot 2026-07-16 042953" src="https://github.com/user-attachments/assets/8dd38456-474b-4dae-9bcb-9a7f042d68fc" />
+<img width="150"  alt="Screenshot 2026-07-16 043034" src="https://github.com/user-attachments/assets/3c2c79d5-b8cd-4f53-9ca2-e45187b236d8" />
 
 
 ## Built With
